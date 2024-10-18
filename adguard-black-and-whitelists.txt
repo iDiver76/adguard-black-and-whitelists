@@ -1,0 +1,10 @@
+googleadservices.com
+googlesyndication.com
+googletagservices.com
+doubleclick.net
+googleads.g.doubleclick.net
+adservices.google.com
+tpc.googlesyndication.com
+pagead2.googlesyndication.com
+securepubads.g.doubleclick.net
+ads.google.com
